@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 450">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ecf6f1"/><stop offset="1" stop-color="#dce9eb"/></linearGradient><linearGradient id="road" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d6e4e3"/><stop offset="1" stop-color="#c7d7de"/></linearGradient></defs>
+<rect width="590" height="450" fill="url(#bg)"/>
+<text x="41" y="48" fill="#37666b" font-family="Arial" font-size="11" font-weight="bold" letter-spacing="2">UNCERTAIN FUTURES / 01</text>
+<rect x="38" y="81" width="510" height="243" rx="8" fill="url(#road)"/>
+<g stroke="#edf5f1" stroke-width="3" stroke-dasharray="19 16" opacity=".92"><path d="M38 160 H548"/><path d="M38 244 H548"/></g>
+<path d="M91 216 C204 217 234 219 301 152 S430 102 519 104" fill="none" stroke="#9dbabb" stroke-width="3" stroke-dasharray="4 8"/>
+<path d="M91 216 C204 217 234 215 301 213 S421 233 520 261" fill="none" stroke="#c7958e" stroke-width="3" stroke-dasharray="4 8"/>
+<path d="M91 216 C190 217 255 216 327 217 S430 216 520 216" fill="none" stroke="#117c78" stroke-width="6" stroke-linecap="round"/>
+<path d="M91 216 C203 218 235 217 307 279 S413 304 520 302" fill="none" stroke="#b4a7ca" stroke-width="3" stroke-dasharray="4 8"/>
+<path d="M91 216 C204 218 234 216 301 175 S430 164 519 164" fill="none" stroke="#acc1be" stroke-width="3" stroke-dasharray="4 8"/>
+<rect x="76" y="200" width="38" height="31" rx="6" fill="#153b45" stroke="#eff7f5" stroke-width="4"/>
+<rect x="463" y="200" width="40" height="31" rx="6" fill="#117c78" stroke="#f4f8f6" stroke-width="3"/>
+<g fill="#f6fbf9" stroke="#cddedb"><rect x="47" y="350" rx="5" width="150" height="65"/><rect x="213" y="350" rx="5" width="150" height="65"/><rect x="379" y="350" rx="5" width="166" height="65"/></g>
+<text x="62" y="369" font-size="10" fill="#527479" font-family="Arial" letter-spacing="1">STYLE POSTERIOR</text>
+<rect x="61" y="380" width="69" height="13" rx="2" fill="#26847e"/><rect x="132" y="380" width="30" height="13" rx="2" fill="#83a6b7"/><rect x="164" y="380" width="17" height="13" rx="2" fill="#c39890"/>
+<text x="227" y="370" font-size="10" fill="#527479" font-family="Arial" letter-spacing="1">TRAJECTORY MODES</text>
+<g fill="#1e827d"><circle cx="253" cy="391" r="5"/><circle cx="280" cy="391" r="5"/><circle cx="307" cy="391" r="5"/></g>
+<g fill="#afbdc3"><circle cx="266" cy="391" r="4"/><circle cx="293" cy="391" r="4"/><circle cx="320" cy="391" r="4"/></g>
+<text x="393" y="370" font-size="10" fill="#527479" font-family="Arial" letter-spacing="1">UNCERTAINTY → ACTION</text>
+<path d="M398 389h65m-9 -7 9 7-9 7" stroke="#247f7a" stroke-width="2" fill="none"/><rect x="475" y="378" width="53" height="24" rx="4" fill="#237f7a"/><text x="484" y="394" font-size="10" fill="#fff" font-family="Arial">DQN</text>
+</svg>

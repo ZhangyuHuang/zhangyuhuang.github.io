@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 450">
+<defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ebf0f6"/><stop offset="1" stop-color="#e2efe9"/></linearGradient></defs><rect width="590" height="450" fill="url(#p)"/><text x="42" y="49" font-family="Arial" font-size="11" letter-spacing="2" font-weight="bold" fill="#3a6f77">INFORMATION SELECTION / 02</text>
+<rect x="39" y="82" width="510" height="244" rx="8" fill="#cfdee0"/>
+<g stroke="#f5f9f7" stroke-width="3" stroke-dasharray="19 16"><path d="M39 160H549"/><path d="M39 246H549"/></g>
+<g opacity=".9"><path d="M167 134C233 155 261 175 358 185" stroke="#c0ac97" stroke-width="2" fill="none" stroke-dasharray="5 6"/><path d="M167 134C241 148 259 143 354 122" stroke="#78a4ab" stroke-width="2" fill="none" stroke-dasharray="5 6"/><path d="M167 134C235 131 261 117 345 102" stroke="#80bfb2" stroke-width="3" fill="none"/><path d="M199 254C270 250 298 227 398 190" stroke="#d9ac7f" stroke-width="3" fill="none"/><path d="M199 254C277 254 313 275 398 283" stroke="#c4aa96" stroke-width="2" fill="none" stroke-dasharray="5 6"/></g>
+<g><circle cx="166" cy="133" r="36" fill="#8abbaf" opacity=".25"/><circle cx="166" cy="133" r="31" fill="none" stroke="#4b9c8d" stroke-width="2" stroke-dasharray="4 4"/><rect x="147" y="120" width="38" height="26" rx="6" fill="#137e78" stroke="white" stroke-width="3"/>
+<circle cx="199" cy="254" r="36" fill="#e8b887" opacity=".36"/><circle cx="199" cy="254" r="31" fill="none" stroke="#d59b64" stroke-width="2" stroke-dasharray="4 4"/><rect x="182" y="240" width="36" height="27" rx="6" fill="#ba8a57" stroke="white" stroke-width="3"/></g>
+<g opacity=".75" fill="#7696a0"><rect x="390" y="104" width="33" height="23" rx="5"/><rect x="457" y="172" width="33" height="23" rx="5"/><rect x="391" y="281" width="33" height="23" rx="5"/></g>
+<rect x="267" y="194" width="39" height="28" rx="6" fill="#183b47" stroke="white" stroke-width="3"/>
+<rect x="52" y="343" width="485" height="74" rx="6" fill="#f9fcfb" stroke="#cbdcdc"/>
+<circle cx="74" cy="368" r="7" fill="#1e837b"/><text x="91" y="371" font-family="Arial" font-size="11" fill="#3f6668">HIGH FIDELITY</text><circle cx="277" cy="368" r="7" fill="#a8bec0"/><text x="293" y="371" font-family="Arial" font-size="11" fill="#3f6668">LOW FIDELITY</text>
+<text x="72" y="396" font-family="Arial" font-size="11" fill="#647e80">Retain rich futures for decision-critical agents; compress background context.</text>
+</svg>
