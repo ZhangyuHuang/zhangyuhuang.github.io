@@ -41,10 +41,6 @@ h3 { font-size: 1.0625rem; line-height: 1.55; font-weight: 500; letter-spacing: 
 h3 a { text-decoration: none; }
 .section-body { min-width: 0; }
 .section-body p { color: var(--body); }
-.section-intro { margin-bottom: 1.75rem; }
-.research-item + .research-item { margin-top: 1.75rem; }
-.research-item p { margin-top: .5rem; }
-.detail-link { display: inline-block; margin-top: .5rem; font-size: .875rem; color: var(--muted); }
 .publication + .publication { margin-top: 2rem; }
 .publication-meta { font-size: .875rem; margin-bottom: .5rem; color: var(--muted) !important; }
 .authors { font-size: .9375rem; margin-top: .625rem; }
